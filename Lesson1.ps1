@@ -1,6 +1,6 @@
 ﻿
 #Enter a First name to search for
-$NameToSearchFor = Read-Host "Please enter Name and Lastname to search for:"
+$NameToSearchFor = Read-Host "Please enter First Name to search for:"
 #FetchAllADUsers
 #$AllAdUsers = Get-ADUser -Filter * 
 $AllAdUsers = Get-ADUser -Filter * 

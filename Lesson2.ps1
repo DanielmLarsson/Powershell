@@ -40,4 +40,4 @@ param ([String]$Name)
      
 
 }
-Get-UsersWithName -Name "Adam" 
+Get-UsersWithName -Name "Adam"
